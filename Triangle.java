@@ -29,9 +29,6 @@ public class Triangle {
   }
 
   public static void main(String[] args) {
-    new Triangle(3);
-    new Triangle(4);
-    new Triangle(5);
     new Triangle(6);
   }
 }
